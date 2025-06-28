@@ -5,6 +5,8 @@
 [![Downloads](https://img.shields.io/github/downloads/KassuK1/BlackOut/total?color=blueviolet&style=for-the-badge)](https://github.com/KassuK1/BlackOut/releases)
 
 # This fork is updated with the new constantiam FlightRender exploit
+You can enable this experimental feature in Efly+'s constantiam modes GUI.
+![alt text](https://raw.githubusercontent.com/MoveUE/BlackOut/main/src/main/resources/assets/blackout/Screenshot.png)
 
 # Blackout
 An addon for Meteor client that adds a variety of new/improved features to the Meteor client
@@ -21,7 +23,7 @@ The development of the addon might not be super active due to us having our own 
  - Enjoy the addon.
  - Join the discord if you have any issues with it.
 
-#### Latest build: https://github.com/KassuK1/BlackOut/releases/download/latest/blackout-1.0.2.jar
+#### Latest build: https://github.com/MoveUE/BlackOut/releases/download/latest/blackout-1.0.3a.jar
 
 #### Credits
 Doogie13 for helping with the block mining calculations and step offsets.
